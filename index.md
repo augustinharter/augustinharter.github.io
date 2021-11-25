@@ -1,5 +1,8 @@
-___Fascinated by the nature of intelligence and its implementation in the brain and deep learning.___
+_Fascinated by the nature of intelligence and its implementation in the brain and deep learning._
 
+---
+---
+---
 
 # Research Projects
 
