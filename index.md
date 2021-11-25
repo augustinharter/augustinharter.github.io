@@ -1,9 +1,5 @@
 _Fascinated by the nature of intelligence and its implementation in the brain and deep learning._
 
----
----
----
-
 # Research Projects
 
 ## Modular Recursive Routing Network
