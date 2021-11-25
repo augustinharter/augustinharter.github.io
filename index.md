@@ -19,4 +19,9 @@ Modeling my chain of reasoning while solving above physics puzzles as a sequence
 
 # Philosophy
 Sometimes I write texts about [my understanding of reality](https://augustinharter.github.io/patterns-of-meaning/consciousness).
+
+
+
+
+
 ![soul-636097_960_720-modified](https://user-images.githubusercontent.com/53265208/143331733-96ed47c9-f714-4ca5-b95d-744e03337a74.png)
