@@ -1,4 +1,4 @@
-_Fascinated by the nature of intelligence and its implementation in the brain and artificial neural networks_
+_Fascinated by the nature of intelligence and its implementation in neural networks_
 
 ---
 ---
