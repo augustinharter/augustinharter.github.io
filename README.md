@@ -1,10 +1,13 @@
+# Augustin Harter
+
+
 _Fascinated by the nature of intelligence and its implementation in neural networks_
 
 ---
 ---
 ---
 
-## Research Projects
+## Projects
 
 ### Modular Recursive Routing Network
 Inspired by the brains modular cortical column structure: A network made of sub networks that share and route activations via attention mechanisms.
