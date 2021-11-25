@@ -10,7 +10,7 @@ Inspired by the brains modular cortical column structure: A network made of sub 
 ## Unsupervised Segmentation of Reward Related Objects
 ![segmentation gif](https://raw.githubusercontent.com/ndrwmlnk/critic-guided-segmentation-of-rewarding-objects-in-first-person-views/main/imgs/results.gif)
 
-Learning segmentation masks for reward related objects to enrich the observations fed to a RL policy. This work helped to achieve the 1st place in the 2020 MineRL competition https://www.aicrowd.com/challenges/neurips-2020-minerl-competition. 
+Learning segmentation masks for reward related objects to enrich the observations fed to a RL policy. This work helped to achieve the 1st place in the [2020 MineRL competition](https://www.aicrowd.com/challenges/neurips-2020-minerl-competition).
 [Link to repository](https://github.com/ndrwmlnk/critic-guided-segmentation-of-rewarding-objects-in-first-person-views)
 
 ## A deep learning architecture for solving physics mirroring an intuitive reasoning process
